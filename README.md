@@ -8,3 +8,5 @@ This is a 100 day code challenge
 4.[solution 4](problem4.c)
 
 5.[solution 5](problem_5.c)
+
+6.[solution 6](problem_6.c)
