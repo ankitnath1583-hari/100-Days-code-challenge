@@ -12,3 +12,6 @@ This is a 100 day code challenge
 6.[solution 6](problem_6.c)
 
 7.[solution 7](problem_7.c)
+
+8.[solution 8](problem_8.c)
+
