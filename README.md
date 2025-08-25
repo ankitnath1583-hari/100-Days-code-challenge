@@ -15,7 +15,7 @@ This is a 100 day code challenge
 
 8.[solution 8](problem_8.c)
 
-
+9.[solution 9](problem_9.c)
 
 10.[solution 10](problem_10.c)
 
