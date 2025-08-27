@@ -25,3 +25,5 @@ This is a 100 day code challenge
 
 12.[solution 12](problem_12.c)
 
+13.[solution 13](problem_13.c)
+
