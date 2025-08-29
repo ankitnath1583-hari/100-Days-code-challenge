@@ -29,3 +29,11 @@ This is a 100 day code challenge
 
 14.[solution 14](problem_14.c)
 
+15.[solution 15](problem_15.c)
+
+16.[solution 16](problem_16.c)
+
+17.[solution 17](problem_17.c)
+
+18.[solution 18](problem_18.c)
+
