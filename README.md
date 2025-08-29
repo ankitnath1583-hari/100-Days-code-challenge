@@ -31,7 +31,7 @@ This is a 100 day code challenge
 
 15.[solution 15](problem_15.c)
 
-16.[solution 16](problem_16.c)
+
 
 17.[solution 17](problem_17.c)
 
