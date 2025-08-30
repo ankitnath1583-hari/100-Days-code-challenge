@@ -39,3 +39,5 @@ This is a 100 day code challenge
 
 19.[solution 19](problem_19.c)
 
+20.[solution 20](problem_20.c)
+
