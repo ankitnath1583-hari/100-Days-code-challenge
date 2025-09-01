@@ -45,3 +45,7 @@ This is a 100 day code challenge
 
 22.[solution 22](problem_22.c)
 
+23.[solution 23](problem_23.c)
+
+
+
