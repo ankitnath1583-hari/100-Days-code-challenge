@@ -43,3 +43,5 @@ This is a 100 day code challenge
 
 21.[solution 21](problem_21.c)
 
+22.[solution 22](problem_22.c)
+
