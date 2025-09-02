@@ -1,7 +1,7 @@
 # 100-Days-code-challenge
 This is a 100 day code challenge
 
-1. [solution 1](firstproblem.c)
+1.[solution 1](firstproblem.c)
 
 2.[solution 2](problem2.c)
 
