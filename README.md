@@ -53,5 +53,7 @@ This is a 100 day code challenge
 
 26.[solution 26](problem_26.c)
 
+27.[solution 27](problem_27.c)
+
 
 
