@@ -61,3 +61,7 @@ This is a 100 day code challenge
 
 
 
+31.[solution 31](problem_31.c)
+
+
+
