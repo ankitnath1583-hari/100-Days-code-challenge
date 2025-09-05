@@ -59,9 +59,9 @@ This is a 100 day code challenge
 
 29.[solution 29](problem_29.c)
 
+30.[solution_30](prooblem_30.c)
 
-
-31.[solution 31](problem_31.c)
+31.[solution 32](problem_32.c)
 
 
 
