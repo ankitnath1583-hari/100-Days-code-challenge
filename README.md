@@ -65,6 +65,8 @@ This is a 100 day code challenge
 
 34.[solution 34](problem_34.c)
 
+35.[solution 35](problem_35.c)
+
 
 
 
