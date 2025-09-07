@@ -61,7 +61,11 @@ This is a 100 day code challenge
 
 30.[solution_30](prooblem_30.c)
 
-31.[solution 32](problem_32.c)
+32.[solution 32](problem_32.c)
+
+34.[solution 34](problem_34.c)
+
+
 
 
 
