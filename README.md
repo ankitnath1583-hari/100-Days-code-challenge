@@ -69,6 +69,8 @@ This is a 100 day code challenge
 
 37.[solution 37](problem_37.c)
 
+38.[solution 38](problem_38.c)
+
 
 
 
