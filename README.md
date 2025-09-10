@@ -71,6 +71,8 @@ This is a 100 day code challenge
 
 38.[solution 38](problem_38.c)
 
+42.[solution 42](problem_42.c)
+
 
 
 
