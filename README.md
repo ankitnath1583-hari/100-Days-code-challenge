@@ -73,6 +73,8 @@ This is a 100 day code challenge
 
 42.[solution 42](problem_42.c)
 
+43.[solution 43](problem43.c)
+
 
 
 
