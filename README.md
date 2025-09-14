@@ -75,6 +75,8 @@ This is a 100 day code challenge
 
 43.[solution 43](problem43.c)
 
+46.[solution 46](problem46.c)
+
 
 
 
