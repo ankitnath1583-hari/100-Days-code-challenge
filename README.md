@@ -81,6 +81,7 @@ This is a 100 day code challenge
 
 48.[solution 48](problem48.c)
 
+49.[solution 49](problem49.c)
 
 
 
