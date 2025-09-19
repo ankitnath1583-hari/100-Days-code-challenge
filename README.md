@@ -89,6 +89,8 @@ This is a 100 day code challenge
 
 53.[solution 53](problem53.c)
 
+54.[solution 54](problem54.c)
+
 
 
 
