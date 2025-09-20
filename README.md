@@ -93,6 +93,7 @@ This is a 100 day code challenge
 
 55.[solution 55](problem55.c)
 
+56.[solution 56](problem56.c)
 
 
 
