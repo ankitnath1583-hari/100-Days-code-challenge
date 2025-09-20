@@ -99,5 +99,7 @@ This is a 100 day code challenge
 
 58.[solution 58](problem58.c)
 
+59.[solution 59](problem59.c)
+
 
 
