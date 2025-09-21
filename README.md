@@ -101,5 +101,7 @@ This is a 100 day code challenge
 
 59.[solution 59](problem59.c)
 
+60.[solution 60](problem60.c)
+
 
 
