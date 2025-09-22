@@ -109,4 +109,6 @@ This is a 100 day code challenge
 
 65.[solution 65](problem65.c)
 
+66.[solution 66](problem66.c)
+
 
