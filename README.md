@@ -117,4 +117,6 @@ This is a 100 day code challenge
 
 68.[solution 68](problem68.c)
 
+69.[solution 69](problem69.c)
+
 
