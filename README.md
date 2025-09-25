@@ -121,3 +121,5 @@ This is a 100 day code challenge
 
 71.[solution 71](problem71.c)
 
+72.[solution 72](problem72.c)
+
