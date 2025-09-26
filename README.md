@@ -125,5 +125,6 @@ This is a 100 day code challenge
 
 73.[solution 73](problem73.c)
 
+74.[solution 74](problem74.c)
 
 
