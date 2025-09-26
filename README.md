@@ -123,3 +123,7 @@ This is a 100 day code challenge
 
 72.[solution 72](problem72.c)
 
+73.[solution 73](problem73.c)
+
+
+
