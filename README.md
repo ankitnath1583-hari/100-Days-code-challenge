@@ -127,4 +127,6 @@ This is a 100 day code challenge
 
 74.[solution 74](problem74.c)
 
+77.[solution 77](problem77.c)
+
 
