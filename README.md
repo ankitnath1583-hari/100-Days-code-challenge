@@ -137,3 +137,5 @@ This is a 100 day code challenge
 
 85.[solution 85](problem85.c)
 
+86.[solution 86](problem86.c)
+
