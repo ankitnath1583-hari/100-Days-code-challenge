@@ -137,6 +137,8 @@ This is a 100 day code challenge
 
 83.[solution 83](problem83.c)
 
+84.[solution 84](problem84.c)
+
 85.[solution 85](problem85.c)
 
 86.[solution 86](problem86.c)
