@@ -148,3 +148,5 @@ This is a 100 day code challenge
 92.[solution 92](problem92.c)
 
 95.[solution 95](problem95.c)
+
+96.[solution 96](problem96.c)
