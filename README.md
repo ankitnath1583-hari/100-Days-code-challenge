@@ -152,3 +152,5 @@ This is a 100 day code challenge
 96.[solution 96](problem96.c)
 
 99.[solution 99](problem99.c)
+
+100.[solution 100](problem100.c)
