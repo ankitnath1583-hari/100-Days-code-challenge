@@ -153,6 +153,8 @@ This is a 100 day code challenge
 
 97.[solution 97](problem97.c)
 
+98.[solution 98](problem98.c)
+
 99.[solution 99](problem99.c)
 
 100.[solution 100](problem100.c)
