@@ -11,37 +11,20 @@ File copied successfully to destination.txt
 #include <stdio.h>
 
 int main() {
-    FILE *src, *dest;
-    char sourceFile[50], destFile[50];
-    int ch;
-
-    printf("Enter source file name: ");
-    scanf("%s", sourceFile);
-
-    printf("Enter destination file name: ");
-    scanf("%s", destFile);
-
-    src = fopen(sourceFile, "r");
-    if (src == NULL) {
-        printf("Error: Source file not found!\n");
-        return 1;
-    }
-
-    dest = fopen(destFile, "w");
-    if (dest == NULL) {
-        printf("Error: Unable to create destination file!\n");
-        fclose(src);
-        return 1;
-    }
-
-    while ((ch = fgetc(src)) != EOF) {  
-        fputc(ch, dest);                
-    }
-
-    fclose(src);
+FILE *src, *dest;
+char s[50], d[50];
+int ch;
+printf("Enter source file name: ");
+scanf("%s", s);
+printf("Enter destination file name: ");
+scanf("%s", d);
+src=fopen(s,"r");
+if(src==NULL){ printf("Source file not found!\n"); return 1; }
+dest=fopen(d,"w");
+if(dest==NULL){ printf("Unable to create destination file!\n"); fclose(src); return 1; }
+while((ch=fgetc(src))!=EOF) fputc(ch,d);
+ fclose(src);
     fclose(dest);
-
-    printf("File copied successfully to %s\n", destFile);
-
+printf("File copied successfully!\n");
     return 0;
 }
