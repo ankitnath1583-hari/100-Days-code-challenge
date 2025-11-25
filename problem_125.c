@@ -16,11 +16,11 @@ int main() {
     char text[200];
     fp = fopen("data.txt", "a");  
     if (fp == NULL) {
-        printf("Error: Unable to open file!\n");
-        return 1; }
-    printf("Enter text to append: ");
-    getchar();                     
-    fgets(text, sizeof(text), stdin);
+ printf("Error: Unable to open file!\n");
+  return 1; }
+ printf("Enter text to append: ");
+ getchar();                     
+fgets(text, sizeof(text), stdin);
 fputs(text, fp);              
     fclose(fp);
     printf("File updated successfully with appended text.\n");
