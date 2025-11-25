@@ -34,8 +34,8 @@ int main() {
         return 1;
     }
 
-    while ((ch = fgetc(src)) != EOF) {   // read char by char
-        fputc(ch, dest);                 // write to destination
+    while ((ch = fgetc(src)) != EOF) {  
+        fputc(ch, dest);                
     }
 
     fclose(src);
