@@ -14,21 +14,15 @@ File updated successfully with appended text.
 int main() {
     FILE *fp;
     char text[200];
-
-    fp = fopen("data.txt", "a");   // open in append mode
+    fp = fopen("data.txt", "a");  
     if (fp == NULL) {
         printf("Error: Unable to open file!\n");
-        return 1;
-    }
-
+        return 1; }
     printf("Enter text to append: ");
-    getchar();                      // clear newline from input buffer if needed
+    getchar();                     
     fgets(text, sizeof(text), stdin);
-
-    fputs(text, fp);                // append text to file
-
+fputs(text, fp);              
     fclose(fp);
-
     printf("File updated successfully with appended text.\n");
     return 0;
 }
