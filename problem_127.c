@@ -14,20 +14,14 @@ Output File (output.txt): HELLO WORLD\nC PROGRAMMING
 int main() {
     FILE *fp_in, *fp_out;
     char ch;
-
     fp_in = fopen("input.txt", "r");
     fp_out = fopen("output.txt", "w");
-
     if (fp_in == NULL || fp_out == NULL) {
         printf("Error: Unable to open file!\n");
-        return 1;
-    }
-
+        return 1;}
     while ((ch = fgetc(fp_in)) != EOF) {
-        ch = toupper(ch);   // convert to upper
-        fputc(ch, fp_out);
-    }
-
+        ch = toupper(ch); 
+        fputc(ch, fp_out);}
     fclose(fp_in);
     fclose(fp_out);
 
