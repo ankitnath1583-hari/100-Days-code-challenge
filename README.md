@@ -179,3 +179,6 @@ This is a 100 day code challenge
 
 
 143.[solution 140](problem143.c)
+
+
+144.[solution 144](problem144.c)
