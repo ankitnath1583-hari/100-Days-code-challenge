@@ -173,3 +173,6 @@ This is a 100 day code challenge
 
 
 141.[solution 141](problem141.c)
+
+
+142.[solution 142](problem142.c)
