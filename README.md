@@ -143,6 +143,8 @@ This is a 100 day code challenge
 
 86.[solution 86](problem86.c)
 
+88.[solution 88](problem88.c)
+
 91.[solution 91](problem91.c)
 
 92.[solution 92](problem92.c)
